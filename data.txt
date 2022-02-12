@@ -1,0 +1,6 @@
+
+Hot water: 50
+Cold water: 993
+
+Hot water: 100
+Cold water: 500
