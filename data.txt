@@ -4,3 +4,12 @@ Cold water: 993
 
 Hot water: 100
 Cold water: 500
+
+Hot water: 888
+Cold water: 40
+
+Hot water: 
+Cold water: 
+
+Hot water: 10000
+Cold water: 6000

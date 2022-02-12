@@ -7,8 +7,8 @@ print(data)
 s = 'hello'
 res = []
 
-hot = input('Hot: ')
-cold = input('Cold: ')		
+hot = int(input('Hot: '))
+cold = int(input('Cold: '))	
 
 
 
@@ -16,8 +16,8 @@ res = res[:-1]
 print(res)
 
 data += '\n'
-data += 'Hot water: ' + hot + '\n'
-data += 'Cold water: ' + cold + '\n'
+data += 'Hot water: ' + str(hot * 1000) + '\n'
+data += 'Cold water: ' + str(cold * 1000) + '\n'
 
 print(data)
 
